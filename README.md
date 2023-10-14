@@ -1,6 +1,6 @@
 <h1>Welcome to my little world, I’m JIikep</h1>
 
-<img src="1st.gif"/>
+<img src="gifs/1st.gif"/>
 
 <h3>Easy introduction💻</h2>
 Most recently I have immersed myself in programming
