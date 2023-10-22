@@ -8,7 +8,7 @@ Most recently, I plunged into programming with my head and the main direction is
   <div class = "stack-name">My stack:</div>
     <div>
       <p>
-        Python + Golang
+        <li>Python + Golang</li>
         PostgreSQL and MS SQL
         Docker and Kubernetes
         CI/CD (GitLab)
