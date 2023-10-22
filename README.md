@@ -5,7 +5,9 @@
 <h2>Easy introduction💻</h2>
 Most recently, I plunged into programming with my head and the main direction is DevOps engineering
 <div class = "stack">
-  <ul>
+  <ul> 
+    <ul>My stack:</ul>
+    <ul>
         <li>Python + Golang</li>
         <li>PostgreSQL and MS SQL</li>
         <li>Docker and Kubernetes</li>
@@ -13,6 +15,7 @@ Most recently, I plunged into programming with my head and the main direction is
         <li>LINUX (KALI,Ubuntu)</li>
         <li>Figma and HTML + CSS(SCSS)</li>
         <li>Understanding the work of HTTP, requests (GET,POST)</li>
+    </ul>
   </ul>
 <!---
 JIikep/JIikep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
