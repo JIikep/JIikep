@@ -4,6 +4,7 @@
 
 <h2>Easy introduction💻</h2>
 Most recently, I plunged into programming with my head and the main direction is DevOps engineering
+<br>
 <div class = "stack">My stack:</div>
     <ul>
         <li>Python + Golang</li>
