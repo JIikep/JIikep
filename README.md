@@ -9,7 +9,7 @@ Most recently, I plunged into programming with my head and the main direction is
     <div>
       <p>
         <li>Python + Golang</li>
-        PostgreSQL and MS SQL
+        <li>PostgreSQL and MS SQL</li>
         Docker and Kubernetes
         CI/CD (GitLab)
         LINUX (KALI,Ubuntu)
