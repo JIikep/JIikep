@@ -4,7 +4,7 @@
 
 <h2>Easy introduction💻</h2>
 Most recently, I plunged into programming with my head and the main direction is DevOps engineering
-
+\n
 My stack:
 Python + Golang
 PostgreSQL and MS SQL
