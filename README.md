@@ -10,11 +10,11 @@ Most recently, I plunged into programming with my head and the main direction is
       <p>
         <li>Python + Golang</li>
         <li>PostgreSQL and MS SQL</li>
-        Docker and Kubernetes
-        CI/CD (GitLab)
-        LINUX (KALI,Ubuntu)
-        Figma and HTML + CSS(SCSS)
-        Understanding the work of HTTP, requests (GET,POST)
+        <li>Docker and Kubernetes</li>
+        <li>CI/CD (GitLab)</li>
+        <li>LINUX (KALI,Ubuntu)</li>
+        <li>Figma and HTML + CSS(SCSS)</li>
+        <li>Understanding the work of HTTP, requests (GET,POST)</li>
       </p>
   </div>
 </div>
