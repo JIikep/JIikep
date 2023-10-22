@@ -7,14 +7,15 @@ Most recently, I plunged into programming with my head and the main direction is
 <div class = "stack">
   <div class = "stack-name">My stack:</div>
     <div>
-      <br>
-      Python + Golang <br>
-      PostgreSQL and MS SQL <br>
-      Docker and Kubernetes <br>
-      CI/CD (GitLab) <br>
-      LINUX (KALI,Ubuntu) <br>
-      Figma and HTML + CSS(SCSS) <br>
-      Understanding the work of HTTP, requests (GET,POST) <br>
+      <p>
+        Python + Golang
+        PostgreSQL and MS SQL
+        Docker and Kubernetes
+        CI/CD (GitLab)
+        LINUX (KALI,Ubuntu)
+        Figma and HTML + CSS(SCSS)
+        Understanding the work of HTTP, requests (GET,POST)
+      </p>
   </div>
 </div>
 <!---
