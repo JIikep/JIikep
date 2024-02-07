@@ -3,18 +3,18 @@
 <img src="gifs/1st.gif" height="250" width="500"/>
 
 <h2>Easy introduction💻</h2>
-Most recently, I plunged into programming with my head and the main direction is DevOps engineering
+A full-stack developer is when you are on your own wavelength
 <br>
 <br>
 <div class = "stack">My stack:</div>
     <ul>
         <li>Vue & TypeScript & Golang</li>
-        <li>PostgreSQL and MS SQL</li>
-        <li>Docker and Kubernetes</li>
+        <li>PostgreSQL,MySQL,MsSql, Elastic</li>
+        <li>Docker & K8S</li>
         <li>CI/CD (GitLab)</li>
-        <li>LINUX (KALI,Ubuntu)</li>
-        <li>Figma and HTML + CSS(SCSS)</li>
-        <li>Understanding the work of HTTP, requests (GET,POST)</li>
+        <li>LINUX (KALI,Ubuntu 22.04. Kubuntu 23.10, Mint)</li>
+        <li>Figma</li>
+        <li>Understanding the work of HTTP(HTTPS), requests, response</li>
     </ul>
 </div>
 <!---
