@@ -8,7 +8,7 @@ Most recently, I plunged into programming with my head and the main direction is
 <br>
 <div class = "stack">My stack:</div>
     <ul>
-        <li>Python + Golang</li>
+        <li>Vue & TypeScript & Golang</li>
         <li>PostgreSQL and MS SQL</li>
         <li>Docker and Kubernetes</li>
         <li>CI/CD (GitLab)</li>
